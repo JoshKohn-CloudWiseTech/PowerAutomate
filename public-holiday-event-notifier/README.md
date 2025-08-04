@@ -44,3 +44,4 @@ This Power Automate flow automates notifications for upcoming **events** and **p
 ### 7. **Create Planner Task**
 - Creates a task in Microsoft Planner titled:
   ```
+This flow is for demonstration purposes. Connection details and identifiers have been anonymized.
